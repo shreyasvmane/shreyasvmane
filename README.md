@@ -1,5 +1,4 @@
 - 👋 Hello! I’m Shreyas Mane. 
-- 👀 I’m interested in Web Development.
 - 🌱 And I’m currently learning Cloud Computing and ML.
 
 
